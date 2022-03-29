@@ -1,0 +1,10 @@
+D:\21is-20 Dryukov Stepan\prgoram 16.03\prgoram 16.03\bin\Debug\prgoram 16.03.exe.config
+D:\21is-20 Dryukov Stepan\prgoram 16.03\prgoram 16.03\bin\Debug\prgoram 16.03.exe
+D:\21is-20 Dryukov Stepan\prgoram 16.03\prgoram 16.03\bin\Debug\prgoram 16.03.pdb
+D:\21is-20 Dryukov Stepan\prgoram 16.03\prgoram 16.03\obj\Debug\prgoram 16.03.csproj.AssemblyReference.cache
+D:\21is-20 Dryukov Stepan\prgoram 16.03\prgoram 16.03\obj\Debug\prgoram_16._03.Form1.resources
+D:\21is-20 Dryukov Stepan\prgoram 16.03\prgoram 16.03\obj\Debug\prgoram_16._03.Properties.Resources.resources
+D:\21is-20 Dryukov Stepan\prgoram 16.03\prgoram 16.03\obj\Debug\prgoram 16.03.csproj.GenerateResource.cache
+D:\21is-20 Dryukov Stepan\prgoram 16.03\prgoram 16.03\obj\Debug\prgoram 16.03.csproj.CoreCompileInputs.cache
+D:\21is-20 Dryukov Stepan\prgoram 16.03\prgoram 16.03\obj\Debug\prgoram 16.03.exe
+D:\21is-20 Dryukov Stepan\prgoram 16.03\prgoram 16.03\obj\Debug\prgoram 16.03.pdb
